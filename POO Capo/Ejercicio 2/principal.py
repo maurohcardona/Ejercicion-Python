@@ -1,4 +1,4 @@
-from clases import Articulo, Cliente, Factura, Linea
+import Cliente, Factura, Articulo, Linea
 
 rosa_gonzalez = Cliente(34922207, "Rosa", "Gonzalez")
 
